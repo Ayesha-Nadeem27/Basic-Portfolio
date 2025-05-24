@@ -28,3 +28,6 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ayesha-Nadeem27/Basic-Portfolio
+2. Open the file in your browser:
+   ```bash
+   index.html
